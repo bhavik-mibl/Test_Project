@@ -10,7 +10,7 @@ namespace DemoProjectMVC.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.GitCurrent = "Master";
+            ViewBag.GitCurrent = "Stage_Test";
             return View();
         }
 
