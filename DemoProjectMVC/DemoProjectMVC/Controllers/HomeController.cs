@@ -10,6 +10,7 @@ namespace DemoProjectMVC.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.GitCurrent = "Master";
             return View();
         }
 
@@ -18,7 +19,7 @@ namespace DemoProjectMVC.Controllers
             ViewBag.Message = "Your application description page.";
 
             return View();
-        }
+        }        
 
         public ActionResult Contact()
         {
