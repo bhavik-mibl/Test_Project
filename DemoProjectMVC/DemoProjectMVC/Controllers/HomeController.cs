@@ -11,6 +11,7 @@ namespace DemoProjectMVC.Controllers
         public ActionResult Index()
         {
             ViewBag.GitCurrent = "Stage_Test";
+            ViewBag.GitCurrentRM = "RM#1234";
             return View();
         }
 

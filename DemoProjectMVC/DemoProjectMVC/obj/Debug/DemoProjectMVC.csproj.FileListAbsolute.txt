@@ -69,7 +69,6 @@ D:\MIB\GIT Demo\Test_Project\DemoProjectMVC\DemoProjectMVC\bin\System.Web.WebPag
 D:\MIB\GIT Demo\Test_Project\DemoProjectMVC\DemoProjectMVC\bin\Newtonsoft.Json.xml
 D:\MIB\GIT Demo\Test_Project\DemoProjectMVC\DemoProjectMVC\bin\Antlr3.Runtime.pdb
 D:\MIB\GIT Demo\Test_Project\DemoProjectMVC\DemoProjectMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\MIB\GIT Demo\Test_Project\DemoProjectMVC\DemoProjectMVC\obj\Debug\DemoProjectMVC.csprojAssemblyReference.cache
 D:\MIB\GIT Demo\Test_Project\DemoProjectMVC\DemoProjectMVC\obj\Debug\DemoProjectMVC.csproj.CoreCompileInputs.cache
 D:\MIB\GIT Demo\Test_Project\DemoProjectMVC\DemoProjectMVC\obj\Debug\DemoProjectMVC.csproj.CopyComplete
 D:\MIB\GIT Demo\Test_Project\DemoProjectMVC\DemoProjectMVC\obj\Debug\DemoProjectMVC.dll
