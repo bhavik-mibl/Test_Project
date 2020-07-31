@@ -11,7 +11,7 @@ namespace DemoProjectMVC.Controllers
         public ActionResult Index()
         {
             ViewBag.GitCurrent = "Stage_Test";
-            ViewBag.GitCurrentDev = "Dev Branch - Bhavik"+DateTime.Now;
+            ViewBag.GitCurrentDev = "Dev Branch - Bhavik"+DateTime.Now.ToString();
             return View();
         }
 
